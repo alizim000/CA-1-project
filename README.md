@@ -5,9 +5,9 @@
 By default, dependencies were installed when this application was generated.
 Whenever dependencies in `package.json` are changed, run the following command:
 
-```sh
+``sh
 npm install
-```
+``
 
 To only install resolved dependencies in `package-lock.json`:
 
